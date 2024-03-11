@@ -1,6 +1,24 @@
-### Hi there 👋
+### Hyunwoo Ko's GitHub 👋
+***
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gauss5930)](https://github.com/anuraghazra/github-readme-stats)
+### Machine Learning Engineer, Engineering Manager
+- I am a student studying NLP
+
+### Interest
+- Large Language Model
+- LLM Evaluation
+- LLM Performance Improvement Methods
+
+<div align="center">
+ 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gauss5930)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://cartinoe5930.tistory.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/hyunwoo-ko-aa3387226/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:kopilot100@gmail.com)
+</div>
+
+
 
 <!--
 **gauss5930/gauss5930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
