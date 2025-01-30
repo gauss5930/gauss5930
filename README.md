@@ -1,8 +1,7 @@
 ### Hyunwoo Ko's GitHub 👋
 ***
 
-### Machine Learning Engineer, Engineering Manager
-- I am a student studying NLP
+I am currently working on [OnelineAI](https://www.onelineai.com/).
 
 ### Interest
 - Large Language Model
