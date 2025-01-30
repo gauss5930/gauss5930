@@ -6,7 +6,8 @@ I am currently working on [OnelineAI](https://www.onelineai.com/).
 ### Interest
 - Large Language Model
 - LLM Evaluation
-- LLM Performance Improvement Methods
+- LLM Reasoning
+- Reinforcement Learning
 
 <div align="center">
  
